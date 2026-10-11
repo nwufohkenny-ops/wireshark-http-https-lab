@@ -1,0 +1,12 @@
+# Packet captures can contain sensitive information
+*.pcap
+*.pcapng
+*.cap
+
+# Logs and temporary exports
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+~$*
